@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Banner](assets/LogoGJH-colour-small.png)
+![Banner](assets/LogoGJH-colour-small.png){:style="margin: 0 -1em;"}
 
 
 Hey everyone…GameJobHunter has been a part of my life for a long time. I think since 2008? Honestly the exact origin date is a little hazy at this point. It’s always been a side project, and has primarily been a labor of love that kept me connected to the industry as I moved down a different career path. Several people have been involved over the years (Cory for the longest!) but for about the last 5 years, it’s basically just been me. I’ve gotten much busier with my actual job over the past year or so, and the amount of time I’ve had to keep up with GJH has effectively dropped to zero.
