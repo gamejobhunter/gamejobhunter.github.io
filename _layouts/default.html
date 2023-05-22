@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,12 +8,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
   <link rel="stylesheet" href="css/main.css">
-{% include head.html %}
+  <link rel="icon" href="/assets/cropped-600px-32x32.png" sizes="32x32">
+  <link rel="icon" href="/assets/cropped-600px-192x192.png" sizes="192x192">
+  <link rel="apple-touch-icon" href="/assets/cropped-600px-180x180.png">
+  <meta name="msapplication-TileImage" content="/assets/cropped-600px-270x270.png">
+  {% include head.html %}
 </head>
+
 <body>
   <div class="container">
     {{ content }}
   </div>
-{% include scripts.html %}
+  {% include scripts.html %}
 </body>
+
 </html>
